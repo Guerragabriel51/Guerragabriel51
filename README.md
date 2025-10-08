@@ -1,5 +1,5 @@
 <!-- Banner de apresentação -->
-<h1 align="center">👋 Olá, eu sou o Gabriel Guerra</h1>
+<h1 align="center"> Olá, eu sou o Gabriel Guerra</h1>
 <h3 align="center">💻 Senior Data Engineer | Python | SQL Server | PostgreSQL | C# | .NET | Docker</h3>
 
 <p align="center">
