@@ -18,10 +18,10 @@
 
 ## 🚀 Sobre mim
 
-Sou **Engenheiro de Dados Sênior**, bacharelando em **Sistemas de Informação**, com especialização em **modelagem, migração e integração de dados**.  
-Apaixonado por transformar dados complexos em soluções inteligentes, busco unir **engenharia de software**, **automação** e **dados** para entregar resultados reais.
+Sou **Desenvolvedor BAck-end**, bacharelando em **Sistemas de Informação**, com especialização em **modelagem, migração e integração de dados**.  
+Apaixonado por transformar dados complexos em soluções inteligentes, busco unir **Analise de Dados**, **automação** e **dados** para entregar resultados reais.
 
-Tenho sólida experiência em **criação e sustentação de pipelines e sistemas de dados** com **Python**, **SQL Server**, **PostgreSQL** e **Docker**, aplicando **metodologias ágeis** e **boas práticas de versionamento (Git)**.  
+Tenho sólida experiência em **criação e sustentação de pipelines e sistemas de dados** com **Python**, **Node.JS** ,**SQL Server**, **PostgreSQL** e **Docker**, aplicando **metodologias ágeis** e **boas práticas de versionamento (Git)**.  
 Sou movido por desafios e pelo aprendizado contínuo — acredito que **dados bem estruturados são o alicerce para decisões inteligentes.**
 
 ---
