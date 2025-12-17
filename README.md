@@ -1,6 +1,6 @@
 <!-- Banner de apresentação -->
 <h1 align="center"> Olá, eu sou o Gabriel Guerra</h1>
-<h3 align="center">💻 Senior Data Engineer | Python | SQL Server | PostgreSQL | C# | .NET | Docker</h3>
+<h3 align="center">💻 Back-end Developer | Node.js | SQL Server | JavaScript | C# | .NET | Docker</h3>
 
 <p align="center">
   <a href="mailto:gabriel23753@gmail.com">
@@ -49,7 +49,7 @@ Sou movido por desafios e pelo aprendizado contínuo — acredito que **dados be
 
 ### 🔹 Sistema de Gestão de Carteira de Cobrança — *Carlos Miro Advogados*
 Desenvolvimento de um **sistema modular inovador** para **gestão de clientes e controle de inadimplência**, integrado à **MRV Engenharia**.  
-📌 **Stack:** Python, SQL Server, Docker, APIs REST, HTML5, CSS3, JavaScript  
+📌 **Stack:** Node.JS, SQL Server, Docker, APIs REST, HTML5, CSS3, JavaScript  
 ✅ Backend robusto com automações e web scraping  
 ✅ Envio automatizado de mensagens e e-mails via API  
 ✅ Dashboards interativos e relatórios dinâmicos  
