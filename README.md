@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor BAck-end**, bacharelando em **Sistemas de Informação**, com especialização em **modelagem, migração e integração de dados**.  
+Sou **Desenvolvedor Back-end**, bacharelando em **Sistemas de Informação**, com especialização em **modelagem, migração e integração de dados**.  
 Apaixonado por transformar dados complexos em soluções inteligentes, busco unir **Analise de Dados**, **automação** e **dados** para entregar resultados reais.
 
 Tenho sólida experiência em **criação e sustentação de pipelines e sistemas de dados** com **Python**, **Node.JS** ,**SQL Server**, **PostgreSQL** e **Docker**, aplicando **metodologias ágeis** e **boas práticas de versionamento (Git)**.  
